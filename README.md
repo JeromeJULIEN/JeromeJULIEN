@@ -1,4 +1,4 @@
-### Hi, Jérôme JULIEN there 👋
+### Hi, Jérôme there 👋
 <img src="./logo_webFree_black.jpg" alt="logo web Free" width="500"/>
 
 ## Who am i ?
