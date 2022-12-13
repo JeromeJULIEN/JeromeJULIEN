@@ -33,8 +33,8 @@ This is a finished career, but for sure, somes skills will be usefull for my blo
 ## How to contact me?
 Lot of solutions :
 - **Discord** : jerome_0x_dev#5172
-- **Twitter** : @jerome_0x_dev
-- **LinkedIn** : www.linkedin.com/in/jerome-0x-dev
+- **Twitter** : https://twitter.com/jerome_0x_dev
+- **LinkedIn** : https://www.linkedin.com/in/jerome-0x-dev
 
 <!--
 **JeromeJULIEN/JeromeJULIEN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
