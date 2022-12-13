@@ -1,5 +1,5 @@
 ### Hi, Jérôme JULIEN there 👋
-<img src="./logo_webFree.jpg" alt="logo web Free" width="500"/>
+<img src="./logo_webFree_black.jpg" alt="logo web Free" width="500"/>
 
 ## Who am i ?
 After 15 years in automotive industry research and development, i deciding to deep dive into blockchain.
