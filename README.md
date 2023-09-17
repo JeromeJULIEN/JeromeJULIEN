@@ -6,8 +6,6 @@ French 🇫🇷 and fresh developer, living in Marseille 🌞, i want to dedicat
 
 Get the full control of our datas, our assets, our properties are the promises of the integration of blockchain into mainstream usecase.
 
-**Free our digital life, free our web!!** 
-
 ## What am i doing ?
 I'm a fullstack blockchain developer, focusing on smart contract and front end development
 
