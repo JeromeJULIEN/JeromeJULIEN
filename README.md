@@ -30,7 +30,7 @@ This is a finished career, but for sure, somes skills will be usefull for my blo
 
 ## How to contact me?
 Lot of solutions :
-- **Discord** : jerome_0x_dev#5172
+- **Discord** : jerome_devvv3
 - **Twitter** : https://twitter.com/jerome_devvv3
 - **LinkedIn** : https://www.linkedin.com/in/jerome-devvv3
 
