@@ -16,7 +16,7 @@ My favorite stack is :
 I've spent whole 2022 into intensive courses with O'Clock and Alyra schools to become a -not hardcore skilled but- reliable fullstack developer, passionate by code and blockchain technologies, theirs possibilities and theirs promises !
 During 2023, i build several projects for customers and personal purpose.
 
-I'm currently working on an iOS app, launch S1 2024 🚀
+I'm currently working on a personal iOS app, in beta testing 🚀 and for a ambitious curtomer project
   
 
 ## What do i want to do ?
@@ -33,6 +33,7 @@ This is a finished career, but for sure, somes skills will be usefull for my blo
 
 ## How to contact me?
 Lot of solutions :
+- **Website** : https://www.devvv3.com
 - **Discord** : jerome_devvv3
 - **Twitter** : https://twitter.com/jerome_devvv3
 - **LinkedIn** : https://www.linkedin.com/in/jerome-devvv3
