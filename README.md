@@ -7,7 +7,7 @@ French 🇫🇷 and fresh developer, living in Marseille 🌞, i want to dedicat
 Get the full control of our datas, our assets, our properties are the promises of the integration of blockchain into mainstream usecase.
 
 ## What am i doing ?
-I'm a fullstack web3 and iOS developer
+I'm a fullstack web3 developer on EVM and SVM
 
 My favorite stack is :
 
