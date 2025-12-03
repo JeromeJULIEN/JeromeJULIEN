@@ -1,7 +1,7 @@
 ### Hi, Jérôme there 👋
 
 ## Who am i ?
-After 15 years in automotive industry research and development, i deciding to deep dive into blockchain and i'm fullstack developer EVM and SVM for 3 years
+After 15 years in automotive industry research and development, i deciding to deep dive into blockchain and i'm fullstack developer EVM and SVM since 2022
 French 🇫🇷 developer, living in Marseille 🌞, i want to dedicate my time to shape our future digital usecases, based on blockchain. 
 
 Get the full control of our datas, our assets, our properties are the promises of the integration of blockchain into mainstream usecase.
